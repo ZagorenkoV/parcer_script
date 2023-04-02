@@ -1,0 +1,4 @@
+env/
+hacker/
+config.py
+*.json
